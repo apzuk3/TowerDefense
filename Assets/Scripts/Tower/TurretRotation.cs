@@ -17,11 +17,11 @@ public class TurretRotation : MonoBehaviour
 
     public void Hold()
     {
-        m_stopped = false;
+        m_stopped = true;
     }
 
     public void Rotate()
     {
-        m_stopped = true;
+        m_stopped = false;
     }
 }
