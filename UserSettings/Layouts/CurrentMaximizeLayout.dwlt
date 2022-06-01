@@ -224,9 +224,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 6a3effff
-      m_LastClickedID: -49558
-      m_ExpandedIDs: 6a3effffb24fffffa451ffff8099ffff8899ffff40a2ffffa2a2ffff16bcffffdec5ffff5ac7ffffa8c7ffff40c9ffff7cdfffffcce2ffff5ae4ffff80e5ffffa8e6ffffeae8ffff40eaffff74ecffffa2edffffe2eeffff08f2ffff34fbfffff4ffffffc8900000fc900000069100001c910000409100004a91000094920000ba920000c49200003c9c0000
+      m_SelectedIDs: 988b0000
+      m_LastClickedID: 35736
+      m_ExpandedIDs: 1cc2ffff5ec2ffffa6c2ffff88c3ffffd4c3ffff9ac5ffff90ceffffdcceffffdeceffff2ed0ffff7ad0ffff7cd0ffffd8d1ffff24d2ffffead3ffffe0dbffff2cdcffff2edcffffbedeffff0adfffff0cdfffff40e0ffff8ce0ffff52e2ffff4ae9ffff96e9ffff5cebffff30fbffffe67c0000fa810000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -355,7 +355,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: 0, y: 26}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-transform-toolbar
@@ -385,12 +385,12 @@ MonoBehaviour:
       layout: 4
     - dockPosition: 1
       containerId: overlay-container--right
-      floating: 0
+      floating: 1
       collapsed: 0
       displayed: 0
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: -235.5, y: 49}
       snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
+      snapCorner: 1
       id: Scene View/Camera
       index: 1
       layout: 4
@@ -503,9 +503,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -9.087632, y: 0.12178306, z: -1.4672459}
+    m_Target: {x: -20.194859, y: -13.84428, z: 16.43019}
     speed: 2
-    m_Value: {x: -9.087632, y: 0.12178306, z: -1.4672459}
+    m_Value: {x: -20.194859, y: -13.84428, z: 16.43019}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -552,13 +552,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.19733189, y: 0.22162548, z: -0.04585035, w: -0.9538593}
+    m_Target: {x: -0.21148312, y: 0.38609856, z: -0.091480166, w: -0.89326465}
     speed: 2
-    m_Value: {x: -0.19733113, y: 0.22162463, z: -0.045850176, w: -0.9538557}
+    m_Value: {x: -0.21147387, y: 0.38608167, z: -0.091476165, w: -0.89322555}
   m_Size:
-    m_Target: 15.118938
+    m_Target: 79.24055
     speed: 2
-    m_Value: 15.118938
+    m_Value: 79.24055
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -679,22 +679,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Hovl Studio/3D Lasers Pack/Prefabs
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
-  m_StartGridSize: 96
+  m_StartGridSize: 87
   m_LastFolders:
-  - Assets/Hovl Studio/3D Lasers Pack/Prefabs
-  m_LastFoldersGridSize: 96
+  - Assets/Scenes
+  m_LastFoldersGridSize: 87
   m_LastProjectPath: /Users/aram.petrosyan/Code/Games/TowerDefense WV
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 27}
-    m_SelectedIDs: b4700000
-    m_LastClickedID: 28852
-    m_ExpandedIDs: 00000000e8620000ec620000ee620000f2620000f4620000e66400001a6500002c6500003a650000a0700000bc70000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: e8670000
+    m_LastClickedID: 26600
+    m_ExpandedIDs: 00000000ba650000bc650000be650000c2650000c4650000c6650000c8650000ca650000cc650000ce650000d0650000d2650000d4650000d6650000ec67000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -722,7 +722,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e8620000ea620000ec620000ee620000f0620000f2620000f4620000
+    m_ExpandedIDs: 00000000ba650000bc650000be650000c0650000c2650000c4650000c6650000c8650000ca650000cc650000ce650000d0650000d2650000d4650000d6650000d8650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -747,10 +747,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 6a3effff
-    m_LastClickedInstanceID: -49558
+    m_SelectedInstanceIDs: 988b0000
+    m_LastClickedInstanceID: 35736
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300009a700000
+    m_ExpandedInstanceIDs: c62300009a7000004e680000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -775,7 +775,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 96
+    m_GridSize: 87
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 350
 --- !u!114 &12
@@ -863,7 +863,7 @@ MonoBehaviour:
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
-    m_CachedPref: 160
+    m_CachedPref: -253
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
